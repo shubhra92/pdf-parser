@@ -1,5 +1,5 @@
 const Fs = require('fs');
-const Pdf = require('./lib/pdf-parse.js');
+const Pdf = require('./lib/pdf-parser-fix.js');
 
 module.exports = Pdf;
 
